@@ -1,3 +1,7 @@
+Important
+=========
+This is a fork of https://github.com/japs/alipy and the only difference is that it includes a bugfix writing css files with python3
+
 About
 =====
 This is a fork of the original alipy 2 package. The main goal is to make
